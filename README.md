@@ -28,10 +28,10 @@
 <pre><code>GOOS=windows GOARCH=amd64 go build -o razorbox-windows.exe main.go</code></pre>
 
 <h2>Exemplo</h2>
-<pre><code>Digite o host alvo (exemplo: host.com): example.com
+<pre><code>Digite o host alvo: exemplo.com
 Digite o range de portas (exemplo: 1-1000): 1-100
-Escolha o intervalo (seconds): 1
-Iniciando scan de portas no alvo: example.com...
+Escolha o intervalo (segundos): 1
+Iniciando scan de portas no alvo: exemplo.com...
 Porta 80 (HTTP) está aberta
 Porta 443 (HTTPS) está aberta
 Finalizado!</code></pre>
