@@ -38,8 +38,5 @@ Finalizado!</code></pre>
 
 <h2>Contribuindo</h2>
 <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
-
-<h2>Licença</h2>
-<p>Este projeto está licenciado sob a Licença MIT. Consulte o arquivo <code>LICENSE</code> para obter detalhes.</p>
 </body>
 </html>
